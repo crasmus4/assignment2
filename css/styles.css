@@ -1,18 +1,14 @@
-body {background-color: rgba(255, 220, 32, 0.41)}
-
-h1 {border; 3px solid #73AD21;}
-
- .clarkquote{box-sizing:border-box;
-            background-color: rgba(120, 98, 214, 0.37);
-            border-radius: 30px;
-            margin: 0;}
-
 p{border-radius: 25px;
-    margin-left: 70%;
-    padding: 10px;
-    width: 25%;
-    height: 50%;
+    margin-left: 5%;
+    margin-right: 15%;
+    padding: 20px;
+    width: 30%;
+    height: 40%;
     position: relative;
-    border: 3px solid #73AD21;
+    border: 3px solid;
     border-color: black;
-    background-color: rgba(128, 255, 255, 0.88);}
+    background-color: purple;
+    color: rgba(255, 223, 52, 0.96);}
+
+html{font-family:sans-serif;
+    font-size: 18px;}
